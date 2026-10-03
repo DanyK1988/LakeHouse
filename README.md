@@ -1,1 +1,1 @@
-#A LakeHouse project using Databricks
+# A LakeHouse project using Databricks
